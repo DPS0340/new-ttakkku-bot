@@ -1,2 +1,2 @@
 # new-ttakkku-bot
-bot 및 discord bot
+새롭게 나온 봇임
